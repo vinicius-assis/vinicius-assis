@@ -2,8 +2,6 @@
 Hello, I'm Vinícius!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h3>
 
-<br>
-<br>
 <img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/profile.png" alt="Vinícius avatar">
 <h4>A technology and music lover, in 2018 I decided to migrated from administration to into the world of programming and started studying web development. Currently I'm a front-end developer at <a href="http://www.akredito.com.br" target="_blank">Akredito</a>.</h4>
 
