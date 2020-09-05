@@ -4,7 +4,7 @@
 <img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/profile.png" alt="Vinicius avatar">
 
 
-#### A technology and music lover, in 2018 I decided to migrated from administration to into the world of programming and started studying web development. Currently I'm a front-end developer at [Akredito](https://www.akredito.com.br).
+#### A technology and music lover. Back in 2018, I decided to migrate from administration to the world of programming and started studying web development. I'm currently a front-end developer at [Akredito](https://www.akredito.com.br).
 ---
 
 ### Techs
