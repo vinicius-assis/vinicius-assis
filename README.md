@@ -1,18 +1,14 @@
-<h3 align="center">
-Hello, I'm Vinícius!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h3>
+### Hello, I'm Vinícius! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/profile.png" alt="Vinícius avatar">
-<h4>A technology and music lover, in 2018 I decided to migrated from administration to into the world of programming and started studying web development. Currently I'm a front-end developer at <a href="http://www.akredito.com.br" target="_blank">Akredito</a>.</h4>
+[Vinicius Avatar](https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/profile.png)
 
+
+#### A technology and music lover, in 2018 I decided to migrated from administration to into the world of programming and started studying web development. Currently I'm a front-end developer at [Akredito](https://www.akredito.com.br).
 <br>
-<!-- <a href="https://linkedin.com/in/vinicius-assis" target="_blank">
-  <img src="./assets/linkedin.svg" width="30"/>
-</a> -->
-
 
 
 ### Techs
+
 <p>
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
