@@ -5,12 +5,8 @@ Hello, I'm Vinícius!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/
 <br>
 <br>
 <img style="float: left" src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/profile.png" alt="Vinícius avatar">
-<br>
-<br>
-<h5>A technology and music lover, in 2018 I decided to migrated from administration to into the world of programming and currently I'm a front-end developer at <a href="http://www.akredito.com.br" target="_blank">Akredito</a>.</h5>
+<h4>A technology and music lover, in 2018 I decided to migrated from administration to into the world of programming and currently I'm a front-end developer at <a href="http://www.akredito.com.br" target="_blank">Akredito</a>.</h4>
 
-<br>
-<br>
 <br>
 <!-- <a href="https://linkedin.com/in/vinicius-assis" target="_blank">
   <img src="./assets/linkedin.svg" width="30"/>
