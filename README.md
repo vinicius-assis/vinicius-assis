@@ -31,9 +31,10 @@
   <a target="_blank" href="https://git-scm.com/">
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </a>
-  <!-- <a target="_blank" href="https://www.typescriptlang.org/">
+  <a target="_blank" href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   </a>
+  <!-- 
   <a target="_blank" href="https://vuejs.org/">
     <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   </a> -->
