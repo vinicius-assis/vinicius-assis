@@ -31,12 +31,6 @@
   <a target="_blank" href="https://git-scm.com/">
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </a>
-  <a target="_blank" href="https://www.npmjs.com/">
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://yarnpkg.com/">
-    <img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-  </a>
   <!-- <a target="_blank" href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   </a>
