@@ -1,8 +1,8 @@
-### Hello, I'm Vinícius!
+<h1>Hello, I'm Vinícius!</h1>
 
-#### Passionate JavaScript developer dedicated to crafting interactive and engaging experiences from designs. Specializing in responsive and accessible interfaces, translating complex concepts into practical solutions. My journey encompasses performance optimization and accomplishments across e-commerce, finance, and digital marketing. With expertise in React, I'm geared up to tackle challenges, share knowledge, and drive digital innovation.
+<p>Passionate JavaScript developer dedicated to crafting interactive and engaging experiences from designs. Specializing in responsive and accessible interfaces, translating complex concepts into practical solutions. My journey encompasses performance optimization and accomplishments across e-commerce, finance, and digital marketing. With expertise in React, I'm geared up to tackle challenges, share knowledge, and drive digital innovation.</p>
 
-### Techs
+Techs
 
 <p>
   <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
@@ -46,19 +46,3 @@
 <a target="_blank" href="mailto:viniciusassis.dev@hotmail.com">
     <img alt="minutemailer" src="https://img.shields.io/badge/-/vinicius--assis-2C8EBB?style=flat-square&logo=minutemailer&logoColor=white" />
 </a>
-<!--  -->
-
-<!--
-**vinicius-assis/vinicius-assis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
