@@ -4,7 +4,7 @@
 <img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/profile.png" alt="Vinicius avatar">
 
 
-#### A technology and music lover. Back in 2018, I decided to migrate from administration to the world of programming and started studying web development. I'm currently a front-end developer at [Akredito](https://www.akredito.com.br).
+#### Passionate JavaScript developer dedicated to crafting interactive and engaging experiences from designs. Specializing in responsive and accessible interfaces, translating complex concepts into practical solutions. My journey encompasses performance optimization and accomplishments across e-commerce, finance, and digital marketing. With expertise in React, I'm geared up to tackle challenges, share knowledge, and drive digital innovation.
 ---
 
 ### Techs
@@ -34,38 +34,7 @@
   <a target="_blank" href="https://www.typescriptlang.org/">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   </a>
-  <!-- 
-  <a target="_blank" href="https://vuejs.org/">
-    <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
-  </a> -->
-  <!-- <a target="_blank" href="https://redux.js.org/">
-    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://sass-lang.com/">
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  </a> -->
-  <!-- <a target="_blank" href="https://www.docker.com/">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://nodejs.org/en/">
-    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://support.insomnia.rest/article/11-getting-started">
-    <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  </a> -->
 </p>
-
-### 💻 Projects
-<br>
-<div style="margin-left:20px">
-<p><img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/github.svg" width="16" alt="Github icon"/> - <a href="https://github.com/vinicius-assis/github-app">Github App</a></p>
-
-
-<p><img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/controller.svg" width="20" alt="Controler icon"/> - <a href="https://github.com/vinicius-assis/upnid">Upnid Test</a></p>
-
-<p><img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/music.svg" width="16" alt="Music icon"/> - <a href="https://github.com/vinicius-assis/drum-kit">Drum Kit</a></p>
-</div>
-<br>
 
 ### How contact me?
 <div>
