@@ -1,11 +1,6 @@
-### Hello, I'm Vinícius! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-
-<img src="https://github.com/vinicius-assis/vinicius-assis/blob/master/assets/profile.png" alt="Vinicius avatar">
-
+### Hello, I'm Vinícius!
 
 #### Passionate JavaScript developer dedicated to crafting interactive and engaging experiences from designs. Specializing in responsive and accessible interfaces, translating complex concepts into practical solutions. My journey encompasses performance optimization and accomplishments across e-commerce, finance, and digital marketing. With expertise in React, I'm geared up to tackle challenges, share knowledge, and drive digital innovation.
----
 
 ### Techs
 
