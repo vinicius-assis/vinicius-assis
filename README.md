@@ -39,10 +39,6 @@ Techs
 <a target="_blank" href="https://www.linkedin.com/in/vinicius-assis">
     <img alt="linkedin" src="https://img.shields.io/badge/-/vinicius--assis-2C8EBB?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
-<a target="_blank" href="https://www.facebook.com/vinicius.assiis">
-    <img alt="facebook" src="https://img.shields.io/badge/-/vinicius--assis-2C8EBB?style=flat-square&logo=facebook&logoColor=white" />
-</a>
 <a target="_blank" href="mailto:viniciusassis.dev@hotmail.com">
     <img alt="minutemailer" src="https://img.shields.io/badge/-/vinicius--assis-2C8EBB?style=flat-square&logo=minutemailer&logoColor=white" />
 </a>
